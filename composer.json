@@ -1,5 +1,5 @@
 {
-    "name": "ahsankhatri/firestore-php",
+    "name": "davcpas1234/firestore-php",
     "description": "Firestore PHP Client",
     "keywords": [
         "php",
@@ -15,6 +15,12 @@
             "email": "ahsankhatri1992@gmail.com",
             "homepage": "https://ahsaan.me",
             "role": "Developer"
+        },
+        {
+            "name": "David Passmore",
+            "email": "apps@verscreative.co.uk",
+            "homepage": "https://www.verscreative.co.uk",
+            "role": "Maintainer"
         }
     ],
     "require": {
